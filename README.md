@@ -1,4 +1,3 @@
-![](RabbitACode.png)
 ![](RabbitA.png)
 
 ---
